@@ -1,13 +1,14 @@
 # Data-analytics-portfolio
 
-Hi! I'm Koki, a data analyst with a background in Economics and hands on experience in Excel, SQL, Tableau, and Python.
+Economics graduate (San Diego State University, 2024) targeting operations and financial analyst roles. I work in Excel (PivotTables, XLOOKUP), Tableau and basic SQL. Based in San Diego.
 
 ## Fetured Projects
 
-### 1. Movie Industry ROI Analysis 
-**Toools:** Excel | **Skills:** Financial analysis, data visualization, inflation adjustment
-- Analyzed 7,669 movies to indentify ROI patterns
-- [View Project →] [Movie Industry ROI Project.xlsx](https://github.com/user-attachments/files/23842295/Movie.Industry.ROI.Project.xlsx)
+### 1. Movie Budget vs. Box Office Analysis 
+**Toools:** Excel,Git | **Skills:** Data cleaning, CPI inflation adjustment, PivotTables, group comparisons
+- Analyzed 7,668 films (1980-2020) to compare gross-to-budget multiples by genre, MPAA rating and IMDb score
+- Horror films grossed 4.2x their budgets on a $9.4M median budget, vs 2.9x for action on a $40M median
+- [View Project →](https://github.com/Koki-Hubbard/Movie-Budget-vs-Box-Office-Analysis)
 
 <!--
 ### 2. Food Retail Dashboard: COVID-19 Impact & Recovery Timeline
@@ -18,6 +19,6 @@ Hi! I'm Koki, a data analyst with a background in Economics and hands on experie
 
 -->
 ## About me
-BA in Economics from SDSU | CourseCareers Data Analytics Bootcamp
-
+-  B.A. in Economics, San Diego State University
+-  Data Analytics course in progress, CourseCareers
 - **Contact:** [linkedin.com/in/kokihubbard88](https://www.linkedin.com/in/kokihubbard88/)
